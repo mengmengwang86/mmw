@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mengmeng Wang/Personal Homepage"
+title                    : "Mengmeng Wang/Homepage"
 title_separator          : "-"
 name                     : &name "Mengmeng(Mia) Wang"
 description              : &description "A master student in Columbia University"
