@@ -21,7 +21,7 @@ repository               : "mengmengwang86/mengmengwang86.github.io/mmw"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photommw1.png"
+  avatar           : "images/photommw1.png"
   name             : "Mengmeng(Mia) Wang"
   pronouns         : "she/her"  
   bio              : "Engineer with an exploratory spirit"
