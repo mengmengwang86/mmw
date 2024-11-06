@@ -12,8 +12,8 @@ title                    : "Mengmeng Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://mengmengwang86.github.io/mmw/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://mengmengwang86.github.io
+baseurl                  : "/mmw" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
