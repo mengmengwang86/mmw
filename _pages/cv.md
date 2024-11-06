@@ -11,16 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Columbia University, 2024
+* B.S. in Shanghai Jiao Tong University, 2023
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**##Work experience**
+### Research Assistant @Creative Machines Lab, 2024.1-now
+
+#### Multi-model Interactive Robot:
+- Developed a multi-model active interaction face robot combining various sensors and motors for natural human-robot interaction.
+- Enhanced motor control and achieved smooth operation through CAN bus communication with Arduino and Linux integration.
+- Implemented pitch and nod neck movements using Python algorithms for human-like motion.
+- Developed a facial recognition-based interaction system for coordinated eye and neck movements.
+
+#### Soft Robot Fish Project:
+- Built and tested a soft robotic fish model for real-time dynamic testing and data analysis.
+- Optimized the swimming mechanism using a genetic algorithm in Python to improve motion efficiency.
+- Conducted embedded programming for sensor data collection and control commands.
+- Collaborated with team members for mechanical structure design and simulation.
+  
 
 * Fall 2015: Research Assistant
   * Github University
