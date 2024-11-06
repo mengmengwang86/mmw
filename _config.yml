@@ -12,7 +12,7 @@ title                    : "Mengmeng Wang/Homepage"
 title_separator          : "-"
 name                     : &name "Mengmeng(Mia) Wang"
 description              : &description "A master student in Columbia University"
-url                      : "https://mengmengwang86.github.io"
+url                      : https://mengmengwang86.github.io
 baseurl                  : "/mmw" # the subpath of your site, e.g. "/blog"
 repository               : "mengmengwang86/mengmengwang86.github.io/mmw"
 
