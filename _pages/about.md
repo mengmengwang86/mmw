@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mengmeng Wang"
+title: "AboutMengmeng"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,13 +16,12 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 ## 🦾 Research
 
 <div class="project">
-    <div style="display: flex; align-items: flex-start; margin-bottom: 1.5em;">
-        <img src="path/to/your/image.jpg" alt="Project Image" style="width: 150px; margin-right: 15px; border-radius: 8px;">
-
-        <div>
-            <h3><a href="link-to-project-page" style="color: #0056b3; text-decoration: none;">Mobile Tethered Pelvic Assist Device (mTPAD) Motor Positions Optimization</a></h3>
-            <p style="margin: 0; font-style: italic;">Robotics And Rehabilitation (RoAR) Lab</p>
-            <p style="margin: 5px 0;">2024.01 - 2024.09</p>
+    <div class="project-container">
+        <img src="images/mmprofile.png" alt="Project Image" class="project-image">
+        <div class="project-details">
+            <h3><a href="link-to-project-page" class="project-link">Mobile Tethered Pelvic Assist Device (mTPAD) Motor Positions Optimization</a></h3>
+            <p class="project-lab">Robotics And Rehabilitation (RoAR) Lab</p>
+            <p class="project-date">2024.01 - 2024.09</p>
             <p>Use random search and genetic algorithm to find the optimal positions of the motors that can satisfy all desired wrenches.</p>
         </div>
     </div>
