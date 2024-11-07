@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Mengmeng Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 A Mechanical Engineering Master of Science from Columbia University, and got Electrical Engineering and Automation bachelor's degree in Shanghai Jiao Tong University. I am interested in Robotic, Automation Engineering, Electrical and Electronics Engineering.
 
-I am very fortunate to be advised by Prof. [Hod Lipson](https://www.hodlipson.com/) of Creative Machines Lab from Columbia University in New York City.
+I am very fortunate to be advised by [Prof. Hod Lipson](https://www.hodlipson.com/) of Creative Machines Lab from Columbia University in New York City.
 
 You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWang_Resume.pdf)
 
