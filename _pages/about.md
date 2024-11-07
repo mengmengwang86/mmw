@@ -11,6 +11,7 @@ A Mechanical Engineering Master of Science from Columbia University, and got Ele
 
 I am very fortunate to be advised by Prof. Hod Lipson(https://www.hodlipson.com/) of Creative Machines Lab from Columbia University in New York City.
 
+You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWang_Resume.pdf)
 
 A data-driven personal website
 ======
