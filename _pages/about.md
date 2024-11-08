@@ -17,7 +17,7 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 
 <div class="project">
     <div class="project-container">
-        <img src="images/mmprofile.png" alt="Project Image" class="project-image">
+        <img src="images/robotneck.png" alt="Project Image" class="project-image">
         <div class="project-details">
             <h3><a href="link-to-project-page" class="project-link">Multi-model Interactive Robot</a></h3>
             <p class="project-lab">Creative Machines Lab | Columbia University</p>
