@@ -29,7 +29,10 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 
 <div class="project">
     <div class="project-container">
-        <img src="images/robotstudio.png" alt="Project Image" class="project-image">
+        <video controls class="project-video">
+            <source src="videos/robotstudio_demo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
         <div class="project-details">
             <h3><a href="Project/robot_studio.html" class="project-link">6-Motor Bipedal Robot Full-Cycle Development</a></h3>
             <p class="project-lab">Columbia University</p>
