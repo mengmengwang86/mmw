@@ -27,3 +27,14 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
     </div>
 </div>
 
+<div class="project">
+    <div class="project-container">
+        <img src="images/robotstudio.png" alt="Project Image" class="project-image">
+        <div class="project-details">
+            <h3><a href="Project/robot_studio.html" class="project-link">6-Motor Bipedal Robot Full-Cycle Development</a></h3>
+            <p class="project-lab">Columbia University</p>
+            <p class="project-date">2024.01 - 2024.05</p>
+            <p>Interdisciplinary Integration and Innovation: Designed, 3D modeled, 3D printed, assembled, programmed, and tested a six-motor bipedal robot from scratch by integrating kinematics, industrial design, electronics, simulation, and programming. Utilized a Raspberry Pi to drive six motors, enabling the robot to walk stably.</p>
+        </div>
+    </div>
+</div>
