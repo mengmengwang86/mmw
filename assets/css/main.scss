@@ -44,7 +44,10 @@
     display: flex;
     align-items: flex-start;
     margin-bottom: 1.5em;
-    width: 100%
+    width: 100%；
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 .project-image,
