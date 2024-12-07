@@ -40,6 +40,12 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.container {
+    max-width: 90%; /* 将宽度从默认的 80% 增大到 90% */
+    margin: 0 auto; /* 居中对齐 */
+    padding: 0 20px; /* 确保两侧有适当内边距 */
+}
+
 .project-container {
     display: flex;
     align-items: flex-start;
