@@ -62,7 +62,7 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 ## 🦾 Project
 <div class="project">
     <div class="project-container">
-        <img src="images/robotneck.png" alt="Project Image" class="project-image">
+        <img src="images/Eyeball.jpg" alt="Project Image" class="project-image">
         <div class="project-details">
             <h3><a href="Project/multi_model_robot.html" class="project-link">Human Tracking Eyeball </a></h3>
             <p class="project-lab">Hardware Hackathon the Third Prize| Columbia University</p>
