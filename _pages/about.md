@@ -67,10 +67,10 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
             <h3><a href="Project/multi_model_robot.html" class="project-link">Human Tracking Eyeball </a></h3>
             <p class="project-lab">Hardware Hackathon the Third Prize| Columbia University</p>
             <p class="project-date">2024.11
-            <ul>
+<!--             <ul>
               <li>Designed and developed a robotic eye system capable of tracking human movement using a camera and OpenCV.</li>  
               <li>Programmed synchronized LED lighting on the eyelid to dynamically respond to musical beats, enhancing the interactive experience.</li>
-            </ul>
+            </ul> -->
         </div>
     </div>
 </div>
