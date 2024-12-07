@@ -29,10 +29,10 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 
 <div class="project">
     <div class="project-container">
-        <video src="/images/Robotstudio_dancing.mp4" autoplay loop muted width="250"></video>
-<!--         <video controls class="project-video">
-            <source src="images/Robotstudio_dancing.mp4" autoplay loop muted width="250" type="video/mp4">
-        </video> -->
+<!--         <video src="/images/Robotstudio_dancing.mp4" autoplay loop muted width="250"></video> -->
+        <video controls class="project-video">
+            <source src="images/Robotstudio_dancing.mp4" autoplay loop muted type="video/mp4">
+        </video>
         <div class="project-details">
             <h3><a href="Project/robot_studio.html" class="project-link">6-Motor Bipedal Robot Full-Cycle Development</a></h3>
             <p class="project-lab">Columbia University</p>
