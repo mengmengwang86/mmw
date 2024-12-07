@@ -41,3 +41,33 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
         </div>
     </div>
 </div>
+<div class="project">
+    <div class="project-container">
+        <video controls class="project-video">
+            <source src="images/Robotstudio_dancing.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="project-details">
+            <h3><a href="Project/robot_studio.html" class="project-link">Soft Robot Fish Project</a></h3>
+            <p class="project-lab">Columbia University</p>
+            <p class="project-date">2024.01 - 2024.05</p>
+            <p>• Boosted robot performance by 43% by developing a Bluetooth test model with Arduino and identifying optimal motor frequency through data analysis. • Designed and assembled a waterproof robotic fish, integrating mechanical and electronic components for durability, stability, and ease of testing. Utilized SolidWorks and 3D printing for the waterproof shell, laser cutting for tail, physical assembly with soldering and electronic component debugging. • Developed a remote control model with Python for wireless communication using an Xbox controller, integrating embedded Arduino and Raspberry Pi.</p>
+        </div>
+    </div>
+</div>
+
+## 🦾 Project
+<div class="project">
+    <div class="project-container">
+        <img src="images/robotneck.png" alt="Project Image" class="project-image">
+        <div class="project-details">
+            <h3><a href="Project/multi_model_robot.html" class="project-link">Human Tracking Eyeball </a></h3>
+            <p class="project-lab">Hardware Hackathon the Third Prize| Columbia University</p>
+            <p class="project-date">2024.09 - Now</p>
+            <ul>
+              <li>Designed and developed a robotic eye system capable of tracking human movement using a camera and OpenCV.</li>  
+              <li>Programmed synchronized LED lighting on the eyelid to dynamically respond to musical beats, enhancing the interactive experience.</li>
+            </ul>
+        </div>
+    </div>
+</div>
