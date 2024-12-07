@@ -29,7 +29,7 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 
 <div class="project">
     <div class="project-container">
-        <video src="/images/RL.mp4" autoplay loop muted width="250"></video>
+        <video src="/images/Robotstudio_dancing.mp4" autoplay loop muted width="250"></video>
 <!--         <video controls class="project-video">
             <source src="images/Robotstudio_dancing.mp4" autoplay loop muted width="250" type="video/mp4">
         </video> -->
