@@ -42,9 +42,8 @@ You can find my CV here [Mengmeng(Mia)'s Curriculum Vitae](../assets/MengmengWan
 </div>
 <div class="project">
     <div class="project-container">
-        <video controls class="project-video">
-            <source src="images/Robotstudio_dancing.mp4" type="video/mp4">
-            Your browser does not support the video tag.
+        <video autoplay loop muted class="project-video">
+            <source src="images/robotfish.mp4" type="video/mp4">
         </video>
         <div class="project-details">
             <h3><a href="Project/robot_studio.html" class="project-link">Soft Robot Fish Project</a></h3>
